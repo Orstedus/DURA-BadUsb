@@ -2,6 +2,9 @@
 ## About
 DURA is Bad USB, which deploys file on VM and sends output to external server(nc listener). \
 Made with Arduino Pro Micro. Wrote with C++. 
+## Disclaimer!
+This project was made only in educational purposes. I don`t take any responsobility if you \
+use it in criminal or offensive ways.
 ## Build
 ### Tech part
 For DURA you will need arduino pro micro or any other board, which supports Keyboard.h. \
@@ -38,6 +41,9 @@ To setup NetCat listener(to get results) you must enter this command:
 ```
 ### EXPLOIT!!!
 To exploit you need just to plug device in VM and wait 8-10 seconds.
+
+### P. S.
+You can use any payload, which outputs useful info.
 
 ## That`s it!
 Hope you like this project! \
